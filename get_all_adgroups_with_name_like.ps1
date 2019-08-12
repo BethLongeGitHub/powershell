@@ -1,1 +1,1 @@
-﻿(get-adgroup -Filter "name -like '*athletics*'").name
+﻿(get-adgroup -Filter "name -like '*<groupname>*'").name
