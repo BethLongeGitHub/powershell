@@ -1,1 +1,1 @@
-Get-ADPrincipalGroupMembership <user> | select name
+(Get-ADPrincipalGroupMembership <user>).name
